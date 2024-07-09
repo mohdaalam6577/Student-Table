@@ -26,13 +26,13 @@ th, td {
 }
 
 tr:nth-child(even){
-    background-color: #ccc;
+    background-color: #eee;
 }
 
-tr:hover{
-    background-color: #000;
-    color: #3df90d;
+tr:hover {
+    background-color: coral;
 }
+
 th {
     background-color: rgb(231, 64, 64);
     color: #fff;
