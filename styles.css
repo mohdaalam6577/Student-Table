@@ -25,11 +25,11 @@ th, td {
     transition: all 0.3s ease;
 }
 
-td:nth-child(even){
+tr:nth-child(even){
     background-color: #ccc;
 }
 
-td:hover{
+tr:hover{
     background-color: #000;
     color: #fff;
 }
